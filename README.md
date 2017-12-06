@@ -1,6 +1,6 @@
 # Firebase Functions - Kotlin
 
-A very bare-bones, in-progress set of type definitions for firebase-functions with current, limited support for the modules:
+An experimental, bare-bones and in-progress set of type definitions for firebase-functions with current, limited support for the modules:
 
 * Firestore
 
