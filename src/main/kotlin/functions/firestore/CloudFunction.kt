@@ -1,3 +1,3 @@
-package main.kotlin.firestore
+package functions.firestore
 
 external interface CloudFunction<T>

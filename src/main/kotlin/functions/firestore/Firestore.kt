@@ -1,4 +1,5 @@
-package main.kotlin.firestore
+package functions.firestore
+
 
 external interface Firestore {
     fun document(path: String): DocumentBuilder

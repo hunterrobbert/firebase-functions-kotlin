@@ -1,4 +1,4 @@
-package main.kotlin.firestore
+package functions.firestore
 
 external interface DeltaDocumentSnapshot<T> {
     val exists: Boolean

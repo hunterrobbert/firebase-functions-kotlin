@@ -1,4 +1,4 @@
-package main.kotlin.firestore
+package functions.firestore
 
 external interface Event<T> {
     val eventId: String?

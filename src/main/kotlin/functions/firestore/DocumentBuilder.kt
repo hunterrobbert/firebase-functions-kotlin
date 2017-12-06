@@ -1,4 +1,4 @@
-package main.kotlin.firestore
+package functions.firestore
 
 external interface DocumentBuilder {
     fun <T> onWrite(handler: (event: Event<DeltaDocumentSnapshot<T>>) -> dynamic) : CloudFunction<DeltaDocumentSnapshot<T>>
